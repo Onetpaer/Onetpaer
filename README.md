@@ -1,16 +1,28 @@
 <h2 align="left">Hi 👋! My name is tpaer</h2>
 
 ###
+Try to develop some security-related small tools.
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Onetpaer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+<h3 align="left">Blog</h3>
+
+<a>https://onetpaer.github.io</a>
+
+<h3 align="left">About Me</h3>
+
+💻 I'm working on cybersecurity. </br>
+📙 I'm good at in Red Team attack techniques.
 
 ###
 
 <img align="right" height="150" src="img/icon.jpg"  />
 
 ###
+
+<h3 align="left">My Skills</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -29,17 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
-
-###
-
-<br clear="both">
 
 
 ###
