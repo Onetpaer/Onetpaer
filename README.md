@@ -1,16 +1,9 @@
 <h2 align="left">Hi 👋! My name is tpaer</h2>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onetpaer&show_icons=true&theme=cobalt" height="150" alt="stats graph"  />
 </div>
-
-###
-
 <img align="right" height="150" src="img/icon.jpg"  />
-
-###
 
 <h3 align="left">My Skills</h3>
 
@@ -31,8 +24,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 </div>
-###
-
 <h3 align="left">Blog</h3>
 
 [Blog](https://onetpaer.github.io/)
+
